@@ -1,4 +1,4 @@
-import { AABB } from "radster-math";
+import { AABB } from "constellation-math";
 
 export type ShapePosition = {
   x: number;

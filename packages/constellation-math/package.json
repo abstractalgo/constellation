@@ -1,5 +1,5 @@
 {
-  "name": "radster-math",
+  "name": "constellation-math",
   "version": "1.0.0",
   "private": false,
   "main": "src/index.ts",

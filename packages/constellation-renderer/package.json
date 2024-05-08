@@ -1,5 +1,5 @@
 {
-  "name": "radster-renderer",
+  "name": "constellation-renderer",
   "version": "1.0.0",
   "private": false,
   "main": "src/index.ts",

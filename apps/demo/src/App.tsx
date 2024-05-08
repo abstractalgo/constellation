@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { RENDERER } from "radster-renderer";
+import { RENDERER } from "constellation-renderer";
 
 function App() {
   const [count, setCount] = useState(0);

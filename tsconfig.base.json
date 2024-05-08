@@ -23,8 +23,8 @@
     "composite": true,
     "rootDir": ".",
     "paths": {
-      "radster-renderer/*": ["./packages/radster-renderer/src/*"],
-      "radster-math/*": ["./packages/radster-math/src/*"]
+      "constellation-renderer/*": ["./packages/constellation-renderer/src/*"],
+      "constellation-math/*": ["./packages/constellation-math/src/*"]
     }
   }
 }

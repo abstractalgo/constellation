@@ -1,4 +1,4 @@
-# radster
+# constellation
 
 A high-performance SDK for building large-scale canvas-based apps, capable of handling ~~hundreds~~ tens of thousands of elements.
 

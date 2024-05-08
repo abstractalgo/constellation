@@ -1,7 +1,7 @@
 {
-  "name": "radster",
+  "name": "constellation",
   "private": false,
-  "repository": "git@github.com:abstractalgo/radster.git",
+  "repository": "git@github.com:abstractalgo/constellation.git",
   "author": "Dragan Okanovic <dragan.okan@gmail.com>",
   "workspaces": [
     "apps/*",
