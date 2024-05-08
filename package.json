@@ -1,0 +1,13 @@
+{
+  "name": "radster",
+  "private": false,
+  "repository": "git@github.com:abstractalgo/radster.git",
+  "author": "Dragan Okanovic <dragan.okan@gmail.com>",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

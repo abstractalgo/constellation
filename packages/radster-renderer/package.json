@@ -1,0 +1,14 @@
+{
+  "name": "radster-renderer",
+  "version": "1.0.0",
+  "private": false,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "module": "src/index.ts",
+  "scripts": {
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}

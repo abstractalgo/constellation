@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    // features
+    "module": "esnext",
+
+    // if TS 5.x+
+    "moduleResolution": "bundler",
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+    "moduleDetection": "force",
+
+    // "allowJs": true, // allow importing `.js` from `.ts`
+    "esModuleInterop": true,
+    "allowJs": false,
+    "resolveJsonModule": true,
+
+    // best practices
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+
+    "composite": true,
+    "rootDir": ".",
+    "paths": {
+      "radster-renderer/*": ["./packages/radster-renderer/src/*"],
+      "radster-math/*": ["./packages/radster-math/src/*"]
+    }
+  }
+}
